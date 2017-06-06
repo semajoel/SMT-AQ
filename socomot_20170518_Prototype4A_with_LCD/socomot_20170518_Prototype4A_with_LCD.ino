@@ -125,9 +125,9 @@ bool GPSworks = false;
 int failtimes = 0;
 int datalog = 0; 
 
-// ThingSpeak Channel: Socomot Prototyping channel 4b
-char thingSpeakAddress[] = "184.106.153.149";
-char writeAPIKey[] = "KBBWMH3RI0HFM1C1";
+
+char thingSpeakAddress[] = "xxx.xxx.xxx.xxx";
+char writeAPIKey[] = "xxxxx";
 char sentMsg[50];
 int value1;
 int value2;
